@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
-    "dev": "nodemon --exec ts-node src/run_college.ts"
+    "dev": "nodemon --exec ts-node src/play_myarray.ts"
   },
   "author": "mehul chopra",
   "license": "ISC",
